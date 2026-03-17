@@ -1,0 +1,163 @@
+/* General Reset */
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background-color:#795d61;
+width:100%;
+}
+
+
+/* =====================
+/* Mobile screens */
+/* ===================== */
+
+@media (max-width:768px){
+
+.welcome-img-flex{
+flex-direction:column;
+text-align:center;
+}
+
+.main-text{
+margin-top: 10%;
+}
+
+.main-text,
+.welcome-image{
+max-width:90%;
+margin:auto;
+
+}
+
+.animated-heading{
+font-size:28px;
+}
+
+.welcome-heading1{
+font-size:32px;
+
+}
+
+.welcome-heading3{
+font-size:24px;
+}
+
+.welcome-paragraph2{
+font-size:16px;
+}
+
+.div1-icons{
+font-size:35px;
+}
+
+.buttons-container{
+width:100%;
+height:20%;
+text-align:center;
+padding:20px 30px;
+}
+
+.welcome-button{
+width:55%;
+padding:8px 0;
+margin:6px auto;
+}
+
+}
+
+
+/* ===================== */
+/* Tablet screens */
+/* ===================== */
+
+/* @media (min-width:769px) and (max-width:1024px){
+
+.animated-heading{
+font-size:24px;
+}
+
+.welcome-heading1{
+font-size:28px;
+}
+
+.welcome-heading3{
+font-size:20px;
+}
+
+.welcome-paragraph2{
+font-size:14px;
+}
+
+.welcome-button{
+width:45%;
+padding:9px 0;
+margin:8px auto;
+}
+
+.div1-icons{
+font-size:30px;
+}
+
+.footer{
+font-size:13px;
+padding:12px;
+}
+
+}
+
+
+/* ===================== */
+/* Large / Desktop screens */
+/* ===================== */
+/* 
+@media (min-width:1025px){
+
+.animated-heading{
+font-size:26px;
+}
+
+.welcome-heading1{
+font-size:30px;
+}
+
+.welcome-heading3{
+font-size:22px;
+}
+
+.welcome-paragraph2{
+font-size:16px;
+}
+
+.welcome-button{
+width:30%;
+padding:10px 0;
+margin:10px auto;
+}
+
+.div1-icons{
+font-size:32px;
+}
+
+.footer{
+font-size:14px;
+padding:14px;
+}
+
+} */
+
+
+/* ===================== */
+/* Extra Large screens */
+/* ===================== */
+
+/* @media (min-width:1400px){
+
+.welcome-button{
+width:23%;
+}
+
+}  */ 
