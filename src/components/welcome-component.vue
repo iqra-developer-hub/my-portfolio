@@ -55,12 +55,12 @@
     </div>
 
     <div class="icon-item">
-      <i class="fa-brands fa-square-linkedin div1-icons"></i>
+      <a href="https://www.linkedin.com/in/iqra-khanzadii-a752373b0/"><i class="fa-brands fa-square-linkedin div1-icons"></i></a>
       <span>LinkedIn</span>
     </div>
 
     <div class="icon-item">
-      <i class="fa-solid fa-briefcase div1-icons"></i>
+      <a href="https://www.fiverr.com/sellers/iqrakhanzadii/"><i class="fa-solid fa-briefcase div1-icons"></i></a>
       <span>Fiverr</span>
     </div>
   </div>
